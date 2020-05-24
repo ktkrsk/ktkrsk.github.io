@@ -15,9 +15,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$helvetica: "Cascadia Code", "Ubuntu Mono", monospace, Helvetica, Arial, sans-serif;
+$helveticaNeue: "Cascadia Code", "Ubuntu Mono", monospace, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: "Cascadia Code", "Ubuntu Mono", monospace, Georgia, serif;
 
 // Mobile breakpoints
 @mixin mobile {
